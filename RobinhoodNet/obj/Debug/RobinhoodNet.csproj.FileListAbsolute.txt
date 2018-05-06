@@ -1,0 +1,5 @@
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBot\bin\Debug\RobinhoodNet.dll
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBot\bin\Debug\RobinhoodNet.pdb
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBot\RobinhoodNet\obj\Debug\RobinhoodNet.csprojResolveAssemblyReference.cache
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBot\RobinhoodNet\obj\Debug\RobinhoodNet.dll
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBot\RobinhoodNet\obj\Debug\RobinhoodNet.pdb

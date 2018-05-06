@@ -1,0 +1,12 @@
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBotAggressive\_Sell\bin\Debug\_Sell.exe.config
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBotAggressive\_Sell\bin\Debug\_Sell.exe
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBotAggressive\_Sell\bin\Debug\_Sell.pdb
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBotAggressive\_Sell\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBotAggressive\_Sell\bin\Debug\RobinhoodNet.dll
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBotAggressive\_Sell\bin\Debug\Shared.exe
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBotAggressive\_Sell\bin\Debug\RobinhoodNet.pdb
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBotAggressive\_Sell\bin\Debug\Shared.pdb
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBotAggressive\_Sell\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBotAggressive\_Sell\obj\Debug\_Sell.csprojResolveAssemblyReference.cache
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBotAggressive\_Sell\obj\Debug\_Sell.exe
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBotAggressive\_Sell\obj\Debug\_Sell.pdb

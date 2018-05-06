@@ -1,0 +1,12 @@
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBotAggressive\_StopLoss\bin\Debug\_StopLoss.exe.config
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBotAggressive\_StopLoss\bin\Debug\_StopLoss.exe
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBotAggressive\_StopLoss\bin\Debug\_StopLoss.pdb
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBotAggressive\_StopLoss\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBotAggressive\_StopLoss\bin\Debug\RobinhoodNet.dll
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBotAggressive\_StopLoss\bin\Debug\Shared.exe
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBotAggressive\_StopLoss\bin\Debug\RobinhoodNet.pdb
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBotAggressive\_StopLoss\bin\Debug\Shared.pdb
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBotAggressive\_StopLoss\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBotAggressive\_StopLoss\obj\Debug\_StopLoss.exe
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBotAggressive\_StopLoss\obj\Debug\_StopLoss.pdb
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBotAggressive\_StopLoss\obj\Debug\_StopLoss.csprojResolveAssemblyReference.cache

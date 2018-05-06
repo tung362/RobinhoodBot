@@ -1,0 +1,4 @@
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBot\bin\Release\RobinhoodNet.dll
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBot\bin\Release\RobinhoodNet.pdb
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBot\RobinhoodNet\obj\Release\RobinhoodNet.dll
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBot\RobinhoodNet\obj\Release\RobinhoodNet.pdb

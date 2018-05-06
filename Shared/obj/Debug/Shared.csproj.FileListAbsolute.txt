@@ -1,0 +1,10 @@
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBotAggressive\Shared\bin\Debug\Shared.exe.config
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBotAggressive\Shared\bin\Debug\Shared.exe
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBotAggressive\Shared\bin\Debug\Shared.pdb
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBotAggressive\Shared\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBotAggressive\Shared\bin\Debug\RobinhoodNet.dll
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBotAggressive\Shared\bin\Debug\RobinhoodNet.pdb
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBotAggressive\Shared\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBotAggressive\Shared\obj\Debug\Shared.csprojResolveAssemblyReference.cache
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBotAggressive\Shared\obj\Debug\Shared.exe
+C:\Users\Tung Nguyen\Desktop\Dev\VisualStudios\RobinhoodBotAggressive\Shared\obj\Debug\Shared.pdb
